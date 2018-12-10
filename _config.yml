@@ -20,11 +20,11 @@ description: "★产品展示★ 展示各种标准的盘柜结构！"
 
 # Main author of the website
 # See > authors.yml
-author: johnhu
+author: zhongxingmin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://john-hu.github.io/storybooks'
+url: 'https://productdisplay.github.io/'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://john-hu.github.io/storybooks/images/'
+urlimg: 'https://productdisplay.github.io/images/'
 
 
 # Logo size is 600x80 pixels
