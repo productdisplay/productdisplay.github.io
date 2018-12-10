@@ -1,0 +1,13 @@
+- menu_name: "自動化服務"
+
+- name: "RSS"
+  url: "/feed.xml"
+  title: "訂閱 RSS Feed"
+
+- name: "Atom"
+  url: "/atom.xml"
+  title: "訂閱 Atom Feed"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

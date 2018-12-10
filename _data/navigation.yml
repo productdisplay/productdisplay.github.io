@@ -1,0 +1,7 @@
+- title: "首頁"
+  url: "/"
+  side: left
+
+- title: "搜尋"
+  url: "/search/"
+  side: right
